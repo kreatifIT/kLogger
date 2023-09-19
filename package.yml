@@ -1,0 +1,8 @@
+package: klogger
+author: Kreatif GmbH
+version: '0.0.1'
+
+page:
+    title: kLogger Addon
+    icon: rex-icon rex-icon-package-addon
+    perm: klogger[]
